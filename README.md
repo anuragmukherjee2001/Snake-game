@@ -21,7 +21,7 @@ Rules and features of this game:- </br>
 
 ## Code snippets of this game
 
-<img src = "ScreenShots/carbon.png" height = "350"/> <img src = "ScreenShots/carbon(2).png" height = "350"/></br>
-JavaScript Snippet &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  HTML snippet
+<img src = "ScreenShots/carbon.png" height = "300"/> <img src = "ScreenShots/carbon(2).png" height = "300"/></br>
+
 
 ### Happy Gaming 
