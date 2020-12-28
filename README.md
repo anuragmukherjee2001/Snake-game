@@ -10,6 +10,10 @@ This snake game is purely made with JavaScript. Some amount of Jquerry is used. 
 
 ![Game Over Screen](ScreenShots/gameOver.JPG)
 
+## Game Play Demonstration
+
+![Snake game](https://user-images.githubusercontent.com/62845847/103194602-2a1b5d80-4906-11eb-9a61-bc49ca3bc485.gif)
+
 ## Description
 
 A desktop snake game which runs on any browser.(Recommended mozilla firefox or google chrome)</br></br>
@@ -24,4 +28,4 @@ Rules and features of this game:- </br>
 <img src = "ScreenShots/carbon.png" height = "300"/> <img src = "ScreenShots/carbon(2).png" height = "300"/></br>
 
 
-### Happy Gaming 
+### Happy Gaming😄😄😄!!!
